@@ -1,0 +1,36 @@
+{
+  "name": "@anthropic-ai/trust-graph-engine",
+  "version": "1.0.0",
+  "description": "Multi-dimensional trust scoring engine with hermeneutic re-evaluation — models people in your world with evidence-based credibility across domains.",
+  "author": "FutureSpeak.AI",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureSpeakAI/trust-graph-engine.git"
+  },
+  "keywords": [
+    "trust",
+    "credibility",
+    "scoring",
+    "hermeneutic",
+    "graph",
+    "people",
+    "agent",
+    "AI"
+  ],
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "typescript": "^5.7.0",
+    "vitest": "^4.0.0"
+  }
+}
