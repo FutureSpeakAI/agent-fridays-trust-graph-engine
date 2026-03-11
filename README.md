@@ -2,7 +2,7 @@
 
 Multi-dimensional trust scoring with hermeneutic re-evaluation.
 
-> Extracted from **Agent Friday** -- the AGI OS by [FutureSpeak.AI](https://futurespeak.ai).
+> Extracted from **Agent Friday** — the world's most trustworthy AI assistant, by [FutureSpeak.AI](https://futurespeak.ai).
 
 ## What is this?
 

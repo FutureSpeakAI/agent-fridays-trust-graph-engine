@@ -4,7 +4,7 @@
  * Multi-dimensional trust scoring engine with hermeneutic re-evaluation.
  * Models every person in your world with evidence-based credibility across domains.
  *
- * Extracted from Agent Friday — the AGI OS by FutureSpeak.AI.
+ * Extracted from Agent Friday — the world's most trustworthy AI assistant, by FutureSpeak.AI.
  *
  * Flow: Conversations -> memory extraction picks up person mentions ->
  * Trust Graph resolves to PersonNode -> evidence accumulated -> trust recomputed ->
